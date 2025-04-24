@@ -83,11 +83,10 @@ The Prophet model was built using:
 Regressor Coefficients Output:
 
    | Regressor	|      Mode	      | Coefficient |
-   
-   |            |                     |             |
-   
+   |  --------  |  ----------------   |  --------   |
    | Christmas	|   Multiplicative    |   -0.327    |
 
+---
 
   | 📉 Interpretation: A negative coefficient indicates that "Christmas" had a suppressing effect on Udemy Wikipedia traffic during the forecast window.
 
