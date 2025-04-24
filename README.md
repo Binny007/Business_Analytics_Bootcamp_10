@@ -14,31 +14,33 @@ Welcome to the repository on **Time Series Forecasting** using **(Facebook) Prop
 ## 📂 Repository Contents
 
 ```bash
-📁 Prophet-Time-Series/
 
-├── Prophet.ipynb                  # Jupyter Notebook containing the complete workflow
+        📁 Prophet-Time-Series/
+        
+        ├── Prophet.ipynb                  # Jupyter Notebook containing the complete workflow
+        
+        ├── Udemy_wikipedia_visits.csv    # Time Series dataset with holidays and daily visits
+        
+        └── README.md                      # You're here!
 
-├── Udemy_wikipedia_visits.csv    # Time Series dataset with holidays and daily visits
 
-└── README.md                      # You're here!
-
----       
+---
 
 ## 📌 Topics Covered
 
-     * 📐 Structural Time Series Decomposition
-      
-     * ⌛ Train/Test Split for Time Series
-      
-     * 🔮 Prophet Forecasting Model
-      
-     * ➕ vs ✖️ Additive vs. Multiplicative Seasonality
-      
-     * 🔄 Cross Validation for Time Series
-      
-     * 🎛️ Hyperparameter Tuning with ParameterGrid
-      
-     * 🎯 Performance Metrics: MAE, RMSE
+         * 📐 Structural Time Series Decomposition
+          
+         * ⌛ Train/Test Split for Time Series
+          
+         * 🔮 Prophet Forecasting Model
+          
+         * ➕ vs ✖️ Additive vs. Multiplicative Seasonality
+          
+         * 🔄 Cross Validation for Time Series
+          
+         * 🎛️ Hyperparameter Tuning with ParameterGrid
+          
+         * 🎯 Performance Metrics: MAE, RMSE
 
 #
 
