@@ -23,6 +23,7 @@ Welcome to the repository on **Time Series Forecasting** using **(Facebook) Prop
         
         └── README.md                      # You're here!
 
+```
 
 ---
 
@@ -82,8 +83,8 @@ The Prophet model was built using:
 Regressor Coefficients Output:
 
    | Regressor	|      Mode	      | Coefficient |
-   |            |                 |             |
-   | Christmas	| Multiplicative	|   -0.327    |
+   |            |                     |             |
+   | Christmas	|   Multiplicative    |   -0.327    |
 
 
   | 📉 Interpretation: A negative coefficient indicates that "Christmas" had a suppressing effect on Udemy Wikipedia traffic during the forecast window.
