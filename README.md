@@ -83,7 +83,9 @@ The Prophet model was built using:
 Regressor Coefficients Output:
 
    | Regressor	|      Mode	      | Coefficient |
+   
    |            |                     |             |
+   
    | Christmas	|   Multiplicative    |   -0.327    |
 
 
