@@ -79,6 +79,7 @@ The Prophet model was built using:
       
      * Regressor: Christmas, modeled as multiplicative
 
+#
 
 Regressor Coefficients Output:
 
@@ -86,10 +87,10 @@ Regressor Coefficients Output:
    |  --------  |  ----------------   |  --------   |
    | Christmas	|   Multiplicative    |   -0.327    |
 
----
 
   | 📉 Interpretation: A negative coefficient indicates that "Christmas" had a suppressing effect on Udemy Wikipedia traffic during the forecast window.
 
+#
 
 ## 📈 Forecast Evaluation
 
@@ -101,6 +102,7 @@ Regressor Coefficients Output:
 
 | 📊 Interpretation: The model captured trends reasonably well, with a small error margin. Error metrics are within a manageable range for business applications.
 
+#
 
 ## 🔁 Cross Validation
 
@@ -114,6 +116,7 @@ Regressor Coefficients Output:
 
 | 📉 Interpretation: Cross-validation errors are larger than direct testing errors—indicating temporal variance and a realistic performance snapshot.
 
+#
 
 ## ⚙️ Parameter Tuning
 
@@ -129,6 +132,7 @@ Used sklearn’s ParameterGrid to evaluate combinations of:
 
 | 🔍 Interpretation: Tuning helps control overfitting and captures seasonal trends more accurately. The grid approach ensures comprehensive model evaluation.
 
+#
 
 ## 📊 Visuals
 
@@ -138,11 +142,13 @@ Used sklearn’s ParameterGrid to evaluate combinations of:
 
 | 📷 Graphs available in the notebook: Prophet.ipynb
 
+#
 
 ## 💼 Business Application
 
 This workflow is a blueprint for how companies can forecast digital traffic, manage holiday-driven anomalies, and make proactive decisions using interpretable AI models like Prophet.
 
+#
 
 ## 🚀 Getting Started
 
